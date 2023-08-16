@@ -1,3 +1,6 @@
 Hello
 
 Get Branch1 changes
+
+
+After merge
